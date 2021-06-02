@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devsimsek" alt="devsimsek" /></a> </p>
 
-- 🔭 I’m currently working on [phpRest](https://devsimsek.github.io/phpRest)
+- 🔭 I’m currently working on **some private project**<!--[phpRest](https://devsimsek.github.io/phpRest)-->
 
 - 🌱 I’m currently learning **nothing :)**
 
