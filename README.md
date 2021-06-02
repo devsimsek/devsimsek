@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [phpRest](https://devsimsek.github.io/phpRest)
 
-- 🌱 I’m currently learning **go**
+- 🌱 I’m currently learning **c++**
 
 - 👯 I’m looking to collaborate on [goServe](https://devsimsek.github.io/goServe)
 
