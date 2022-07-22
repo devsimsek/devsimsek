@@ -1,8 +1,8 @@
 # Hi 👋, I'm devsimsek!
 
-## A very young and sophisticated developer from Turkey!</h2>
+A very young and sophisticated developer from Turkey!</h2>
 
-### 👨🏻‍💻 <span style="color: gray; ">Keen on command line interfaces, Neovim and *nix lover</span></h3>
+👨🏻‍💻 <span style="color: gray; ">Keen on command line interfaces, Neovim and *nix lover</span></h3>
 
 <img src="https://komarev.com/ghpvc/?username=devsimsek&label=Profile%20views&color=0e75b6&style=flat" alt="devsimsek" />
 
