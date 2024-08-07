@@ -10,20 +10,20 @@ ___
 
 A Few Facts For The Curious
 
-* 🔭 I’m currently working on **how to survive**
+* 🔭 I’m currently working on **Redesign of smsk.me and deployment of smsk.dev and api endpoints.**
 
-* 🌱 I’m currently learning **how to study for school : D**
+* 🌱 I’m currently learning **Rust**
 
-* 👯 I’m looking to collaborate on [sdf-go](https://github.com/devsimsek/sdf-go)
+* 👯 I’m looking to collaborate on [Elephant](https://github.com/devsimsek/Elephant)
 
-* 👨‍💻 All of my projects are available at [github](https://github.com/devsimsek)
+* 👨‍💻 All of my projects are available at [github](https://github.com/devsimsek) (Soon beta.smsk.me)
 
-* 📝 I'll start writing some articles about science in my own flp (my free blog network project) page
+* 📝 I'll start writing some articles about interesting topics (to me) in my own fyi page.
 
 * 💬 Ask me about **everything!**
 
-* 📫 How to reach me **soft@smsk.me**
+* 📫 How to reach me **devsimsek@outlook.com** (smsk.me could be deprecation.)
 
-* 📄 Check out my own website [https://smsk.me](https://smsk.me)
+* 📄 Check out smskSoft [Github](https://github.com/smskSoft)
 
 * ⚡ Fun fact **I Started Coding Since 2009**
