@@ -6,6 +6,8 @@ A very young and sophisticated developer from Turkey!</h2>
 
 <img src="https://komarev.com/ghpvc/?username=devsimsek&label=Profile%20views&color=0e75b6&style=flat" alt="devsimsek" />
 
+<a rel="me" href="https://mastodon.social/@devsimsek">Mastodon</a>
+
 ___
 
 A Few Facts For The Curious
