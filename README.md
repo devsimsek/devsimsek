@@ -18,13 +18,13 @@ A Few Facts For The Curious
 
 * 👯 I’m looking to collaborate on [Elephant](https://github.com/devsimsek/Elephant)
 
-* 👨‍💻 All of my projects are available at [github](https://github.com/devsimsek) (Soon beta.smsk.me)
+* 👨‍💻 All of my projects are available at [github](https://github.com/devsimsek)
 
-* 📝 I'll start writing some articles about interesting topics (to me) in my own fyi page.
+* 📝 I write some articles at [smsk.dev](https://smsk.dev/)
 
 * 💬 Ask me about **everything!**
 
-* 📫 How to reach me **devsimsek@outlook.com** (smsk.me could be deprecation.)
+* 📫 How to reach me **devsimsek@outlook.com**
 
 * 📄 Check out smskSoft [Github](https://github.com/smskSoft)
 
