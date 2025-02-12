@@ -8,7 +8,7 @@ A very young and sophisticated developer from Turkey!</h2>
 <!-- Using yhype now :D -->
 ![](https://hit.yhype.me/github/profile?account_id=75851971)
 
-<a rel="me" href="https://mastodon.social/@devsimsek">Mastodon</a>
+<a rel="me" href="https://universeodon.com/@devsimsek">Mastodon</a>
 
 ___
 
