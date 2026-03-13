@@ -14,9 +14,9 @@ ___
 
 A Few Facts For The Curious
 
-* 🔭 I’m currently working on **deployment of smsk.dev and api endpoints.**
+<!-- * 🔭 I’m currently working on **deployment of smsk.dev and api endpoints.** -->
 
-* 🌱 I’m currently learning **Rust**
+* 🌱 I’m currently learning **nothing**
 
 * 👯 I’m looking to collaborate on [Elephant](https://github.com/devsimsek/Elephant)
 
