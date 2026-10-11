@@ -20,7 +20,7 @@ A Few Facts For The Curious
 
 * 👯 I’m looking to collaborate on [Elephant](https://github.com/devsimsek/Elephant)
 
-* 👨‍💻 All of my projects are available at [github](https://github.com/devsimsek)
+* 👨‍💻 All of my projects are available at [gitea](https://git.smsk.cloud/devsimsek) [github](https://github.com/devsimsek)
 
 * 📝 I write some articles at [smsk.dev](https://smsk.dev/)
 
