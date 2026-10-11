@@ -4,10 +4,6 @@ A very young and sophisticated developer from Turkey!</h2>
 
 👨🏻‍💻 <span style="color: gray; ">Keen on command line interfaces, A Neovim And Darwin Devotee</span></h3>
 
-<!-- <img src="https://komarev.com/ghpvc/?username=devsimsek&label=Profile%20views&color=0e75b6&style=flat" alt="devsimsek" /> -->
-<!-- Using yhype now :D -->
-![](https://hit.yhype.me/github/profile?account_id=75851971)
-
 <a rel="me" href="https://universeodon.com/@devsimsek">Mastodon</a>
 
 ___
